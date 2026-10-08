@@ -1,0 +1,8 @@
+# Cloudflare: local state/cache and wrangler config holding [vars]
+.wrangler/
+.dev.vars
+.env
+.env.*
+wrangler.toml
+node_modules/
+*.log
